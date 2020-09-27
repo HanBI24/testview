@@ -1,0 +1,3 @@
+include ':ViewPagerTab'
+include ':app'
+rootProject.name = "ViewPager&TabLayout"
